@@ -1,4 +1,10 @@
-<img src="https://github.com/lmartinezn/lmartinezn/blob/master/LinkedIn%20Personal%20Banner.png?raw=true">
+<img src="https://github.com/lmartinezn/lmartinezn/blob/master/GithubBanner.png?raw=true">
+
+### Hello, world 👋
+
+My name is Laura Martínez. I have a bachelor's in Computer Engineering for Information System Management and I enjoy programming, mostly in Java and Python. I'm also a fan of web development, UX, and database design.
+
+Find me at [LinkedIn](https://www.linkedin.com/in/lauramartineznunez/).
 
 <!--
 **lmartinezn/lmartinezn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
