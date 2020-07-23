@@ -1,4 +1,4 @@
-<img src="./LinkedIn Personal Banner.png">
+<img src="https://github.com/lmartinezn/lmartinezn/blob/master/LinkedIn%20Personal%20Banner.png?raw=true">
 
 <!--
 **lmartinezn/lmartinezn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
